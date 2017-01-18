@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件", "事件\事件.csproj", "{E129F993-1119-47B3-98B9-5C5820E8A7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义事件（播放器）", "自定义事件（播放器）\自定义事件（播放器）.csproj", "{68543043-B8E0-4A4B-B7F4-ED60FF84E8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E129F993-1119-47B3-98B9-5C5820E8A7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E129F993-1119-47B3-98B9-5C5820E8A7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E129F993-1119-47B3-98B9-5C5820E8A7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E129F993-1119-47B3-98B9-5C5820E8A7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68543043-B8E0-4A4B-B7F4-ED60FF84E8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68543043-B8E0-4A4B-B7F4-ED60FF84E8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68543043-B8E0-4A4B-B7F4-ED60FF84E8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68543043-B8E0-4A4B-B7F4-ED60FF84E8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
